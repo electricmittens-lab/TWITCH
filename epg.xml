@@ -2,42 +2,42 @@
   <channel id="exptv.tt">
     <display-name lang="en">EXP TV</display-name>
   </channel>
-  <programme channel="exptv.tt" start="20260104040000 +0000" stop="20260104070000 +0000">
+  <programme channel="exptv.tt" start="20260104060000 +0000" stop="20260104090000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260104070000 +0000" stop="20260104100000 +0000">
+  <programme channel="exptv.tt" start="20260104090000 +0000" stop="20260104120000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260104100000 +0000" stop="20260104130000 +0000">
+  <programme channel="exptv.tt" start="20260104120000 +0000" stop="20260104150000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260104130000 +0000" stop="20260104160000 +0000">
+  <programme channel="exptv.tt" start="20260104150000 +0000" stop="20260104180000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260104160000 +0000" stop="20260104190000 +0000">
+  <programme channel="exptv.tt" start="20260104180000 +0000" stop="20260104210000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260104190000 +0000" stop="20260104220000 +0000">
+  <programme channel="exptv.tt" start="20260104210000 +0000" stop="20260105000000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260104220000 +0000" stop="20260105010000 +0000">
+  <programme channel="exptv.tt" start="20260105000000 +0000" stop="20260105030000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260105010000 +0000" stop="20260105040000 +0000">
+  <programme channel="exptv.tt" start="20260105030000 +0000" stop="20260105060000 +0000">
     <title lang="en">EXPTV_</title>
     <desc lang="en">EXP TV</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/2ef161fc-2c34-4c8d-bc59-e0512adf0382-profile_image-300x300.png"/>
