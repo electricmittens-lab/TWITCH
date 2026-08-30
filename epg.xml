@@ -2,44 +2,44 @@
   <channel id="exptv.tt">
     <display-name lang="en">EXP TV</display-name>
   </channel>
-  <programme channel="exptv.tt" start="20260830110000 +0100" stop="20260830140000 +0100">
+  <programme channel="exptv.tt" start="20260830160000 +0100" stop="20260830190000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260830140000 +0100" stop="20260830170000 +0100">
+  <programme channel="exptv.tt" start="20260830190000 +0100" stop="20260830220000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260830170000 +0100" stop="20260830200000 +0100">
+  <programme channel="exptv.tt" start="20260830220000 +0100" stop="20260831010000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260830200000 +0100" stop="20260830230000 +0100">
+  <programme channel="exptv.tt" start="20260831010000 +0100" stop="20260831040000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260830230000 +0100" stop="20260831020000 +0100">
+  <programme channel="exptv.tt" start="20260831040000 +0100" stop="20260831070000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260831020000 +0100" stop="20260831050000 +0100">
+  <programme channel="exptv.tt" start="20260831070000 +0100" stop="20260831100000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260831050000 +0100" stop="20260831080000 +0100">
+  <programme channel="exptv.tt" start="20260831100000 +0100" stop="20260831130000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
-  <programme channel="exptv.tt" start="20260831080000 +0100" stop="20260831110000 +0100">
+  <programme channel="exptv.tt" start="20260831130000 +0100" stop="20260831160000 +0100">
     <title lang="en">EXPTV_</title>
-    <desc lang="en">EXP TV | Streaming just chatting.</desc>
+    <desc lang="en">EXP TV | Streaming just chatting for 1 viewers.</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/200c2b44-7b14-48ed-bed4-fa812aab41f8-profile_image-300x300.png"/>
   </programme>
 </tv>
