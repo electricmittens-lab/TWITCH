@@ -2,42 +2,42 @@
   <channel id="exptv.tt">
     <display-name lang="en">EXP TV</display-name>
   </channel>
-  <programme channel="exptv.tt" start="20261031170000 +0000" stop="20261031200000 +0000">
+  <programme channel="exptv.tt" start="20261031210000 +0000" stop="20261101000000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="exptv.tt" start="20261031200000 +0000" stop="20261031230000 +0000">
+  <programme channel="exptv.tt" start="20261101000000 +0000" stop="20261101030000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="exptv.tt" start="20261031230000 +0000" stop="20261101020000 +0000">
+  <programme channel="exptv.tt" start="20261101030000 +0000" stop="20261101060000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="exptv.tt" start="20261101020000 +0000" stop="20261101050000 +0000">
+  <programme channel="exptv.tt" start="20261101060000 +0000" stop="20261101090000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="exptv.tt" start="20261101050000 +0000" stop="20261101080000 +0000">
+  <programme channel="exptv.tt" start="20261101090000 +0000" stop="20261101120000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="exptv.tt" start="20261101080000 +0000" stop="20261101110000 +0000">
+  <programme channel="exptv.tt" start="20261101120000 +0000" stop="20261101150000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="exptv.tt" start="20261101110000 +0000" stop="20261101140000 +0000">
+  <programme channel="exptv.tt" start="20261101150000 +0000" stop="20261101180000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="exptv.tt" start="20261101140000 +0000" stop="20261101170000 +0000">
+  <programme channel="exptv.tt" start="20261101180000 +0000" stop="20261101210000 +0000">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
